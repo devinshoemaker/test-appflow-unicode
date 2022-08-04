@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Test Appflow Unicode",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

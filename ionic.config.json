@@ -1,0 +1,8 @@
+{
+  "name": "Test Appflow Unicode",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "8aa3238f"
+}
